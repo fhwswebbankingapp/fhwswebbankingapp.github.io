@@ -1,6 +1,7 @@
  plugins:
   - jekyll-redirect-from
  title: Forwardpage
+ redirect_from: https://194.95.221.67
  redirect_to: https://194.95.221.67
 ## Github überschreibt folgende Datensätze immer:
 #  lsi: false
