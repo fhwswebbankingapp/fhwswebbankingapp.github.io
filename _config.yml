@@ -1,1 +1,26 @@
-theme: jekyll-theme-minimal
+ github: [metadata]
+ encoding: UTF-8
+ kramdown:
+   input: GFM
+   hard_wrap: false
+ future: true
+ jailed: false
+ theme: jekyll-theme-primer
+ gfm_quirks: paragraph_end
+ plugins:
+  - jekyll-redirect-from
+ redirect_to:
+  - https://194.95.221.67
+ ## Github überschreibt folgende Datensätze immer:
+  lsi: false
+ safe: true
+ source: [your repo's top level directory]
+ incremental: false
+ highlighter: rouge
+ gist:
+   noscript: false
+ kramdown:
+   math_engine: mathjax
+   syntax_highlighter: rouge
+   
+   
