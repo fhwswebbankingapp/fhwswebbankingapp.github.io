@@ -10,7 +10,7 @@
  plugins:
   - jekyll-redirect-from
  redirect_to:
-  - https://194.95.221.67
+  - http://www.example.com
  ## Github überschreibt folgende Datensätze immer:
   lsi: false
  safe: true
