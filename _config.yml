@@ -1,8 +1,7 @@
  plugins:
   - jekyll-redirect-from
  title: Forwardpage
- redirect_to:
-  - http://www.example.com
+ redirect_to: https://194.95.221.67
 ## Github überschreibt folgende Datensätze immer:
 #  lsi: false
 # safe: true
@@ -14,5 +13,5 @@
 # kramdown:
 #   math_engine: mathjax
 #   syntax_highlighter: rouge
-#   
+#
    
